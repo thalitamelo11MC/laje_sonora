@@ -120,3 +120,21 @@ h1, h2, h3 {
 .botao:hover{
     background-color: var(--caixa-dagua);
 }
+.secao{
+    margin-top: 96px ;
+}
+.titulo-secao{
+    font-size: 64px;
+    margin-bottom: 32px;
+}
+.cards{
+    flex-wrap: wrap
+    display: flex;
+    gap: 24px;
+}
+
+.card{
+    background-color: var(--branco);
+    border: 3px var(--tinta);
+    flex: 1 1 340px;
+}
