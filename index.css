@@ -180,7 +180,7 @@ h1, h2, h3 {
 }
 
 .passo{
-    border-top: 6 px solid var(--tinta);
+    border-top: 6px solid var(--tinta);
     padding: 20px;
     flex: 1;
 }
