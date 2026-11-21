@@ -229,6 +229,7 @@ h1, h2, h3 {
     height: 20px;
     accent-color: var(--caixa-dagua);
 }
+
 @media (max-width: 800px) {
     .inscricao,
     .linha,
